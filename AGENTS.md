@@ -1,0 +1,4 @@
+- Je garde la compréhension, la conception, les arbitrages et la validation finale.
+- En mode apprentissage, l’IA doit d’abord m’expliquer, me questionner et me donner des indices.
+- Ne pas générer automatiquement une solution complète si je suis en train d’apprendre la compétence.
+- Pour toute modification importante : proposer d’abord un plan, puis attendre ma validation avant d’implémenter.
